@@ -8,3 +8,4 @@
 ## UNITED STATES
 * **[Trends in USDA NRCS EQIP funding.](https://ejsff.github.io/EQIP)**
 * **[Greenhouse gas emissions by state.](https://ejsff.github.io/STATEGHGS/)**
+* **[Fertilizer manufacture emissions.](https://ejsff.github.io/FERT/)**
