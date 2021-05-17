@@ -11,6 +11,6 @@
 * **[Fertilizer manufacture emissions.](https://ejsff.github.io/FERT/)**
 
 ## INTERACTIVES
-* **[CAFO Emissions Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/CAFOINVENTORY/)
-* **[Environmental Quality Incentives Program Grants Explorer.](https://sustainablefoodfarming.shinyapps.io/EQIP/)
-* **[CLimate-smart Practice Emission Reduction Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/EmissionReductions/)
+* **[CAFO Emissions Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/CAFOINVENTORY/)**
+* **[Environmental Quality Incentives Program Grants Explorer.](https://sustainablefoodfarming.shinyapps.io/EQIP/)**
+* **[CLimate-smart Practice Emission Reduction Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/EmissionReductions/)**
