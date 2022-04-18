@@ -11,7 +11,7 @@
 * **[Fertilizer manufacture emissions.](https://ejsff.github.io/FERT/)**
 * **[Agriculture's broad climate impact.](https://storymaps.arcgis.com/stories/19986409de48403ea7be66fa37e1ff9e)**
 * **[CAFOs and Endangered & Threatened Species.](https://arcg.is/THW1y)**
-* **[Burps in MERAPS.](https://arcg.is/vqC000)**
+* **[Agriculture in the Methane Emissions Reduction Action Plan.](https://arcg.is/vqC000)**
 
 ## INTERACTIVES
 * **[CAFO Emissions Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/CAFOINVENTORY/)**
