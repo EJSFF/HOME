@@ -14,7 +14,8 @@
 * **[Agriculture in the Methane Emissions Reduction Action Plan.](https://arcg.is/vqC000)**
 
 ## INTERACTIVES
-* **[CAFO Emissions Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/CAFOINVENTORY/)**
+* **[CAFO Inventory and Methane Emissions Tool.](https://sustainablefoodfarming.shinyapps.io/CAFOINVENTORY/)**
+* **[CAFO Manure Production Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/MANUREESTIMATOR/)**
 * **[Environmental Quality Incentives Program Grants Explorer.](https://sustainablefoodfarming.shinyapps.io/EQIP/)**
 * **[Climate-smart Practice Emission Reduction Estimation Tool.](https://sustainablefoodfarming.shinyapps.io/EmissionReductions/)**
 
